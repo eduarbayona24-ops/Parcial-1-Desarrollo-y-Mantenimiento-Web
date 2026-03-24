@@ -20,11 +20,11 @@ PASO 5: Realizar modificaciones en index.html
 1.	Cambiar el título de la página agregando tu nombre
 
 2.	Agregar nombre y código debajo del h1:
-<p><strong>Nombre:</strong> Tu Nombre</p>
-<p><strong>Código:</strong> Tu Código</p>
+<p><strong>Nombre:</strong> Nathalia Robles </p>
+<p><strong>Código:</strong> 192730</p>
 
 3.	Cambiar el color de fondo:
-<body style="background-color: lightblue;">
+<body style="background-color: rgb(141, 19, 104);">
 
 PASO 6: Segundo commit Mensaje:
 Cambios del parcial - Nombre Apellido PASO 7: Push
